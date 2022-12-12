@@ -30,7 +30,7 @@
   <a href = "mailto:henriquejuan36@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juanhen10-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](https://github.com/juanhen10/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/juanhen10/juanhen10/blob/output/github-contribution-grid-snake.svg)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=Slice&color=9f111b&height=120&section=footer"/>
